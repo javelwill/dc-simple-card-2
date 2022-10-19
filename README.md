@@ -23,8 +23,8 @@ This is a solution to the simple card 2 challenge from the Design Course.
 
 ### Links
 
-- Solution URL: [https://github.com/javelwilson/dc-simple-card](https://github.com/javelwilson/dc-simple-card-2)
-- Live Site URL: [https://javelwilson.github.io/dc-simple-card](https://javelwilson.github.io/dc-simple-card-2)
+- Solution URL: [https://github.com/javelwilson/dc-simple-card-2](https://github.com/javelwilson/dc-simple-card-2)
+- Live Site URL: [https://javelwilson.github.io/dc-simple-card-2](https://javelwilson.github.io/dc-simple-card-2)
 
 ## My process
 
